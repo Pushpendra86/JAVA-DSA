@@ -1,4 +1,4 @@
-package PracticeQuestions;
+package Leetcode;
 
 public class CheckSortedOrNot {
     static boolean isSorted(int arr[]){

@@ -1,4 +1,4 @@
-package PracticeQuestions;
+package Leetcode;
 
 import java.util.Arrays;
 

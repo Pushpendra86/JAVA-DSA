@@ -1,4 +1,4 @@
-package PracticeQuestions;
+package Leetcode;
 public class FrequencyOfElement {
     static int checkFrequeny(int arr[], int key) {
         int count = 0;
