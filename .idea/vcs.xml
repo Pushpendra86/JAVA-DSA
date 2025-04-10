@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArrayList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LinkedList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Multidimensional Arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recursion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/String" vcs="Git" />
+  </component>
+</project>

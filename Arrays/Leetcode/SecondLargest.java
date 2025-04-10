@@ -12,13 +12,13 @@ public class SecondLargest {
     }
         static int findSecondMax(int[] arr){
             //for second max
-            int max = findMax(arr);
+            int max = findSecondMax(arr);
             for (int i = 0; i < arr.length; i++) {
                 if (arr[i] == max) {
                     arr[i] = Integer.MIN_VALUE;
                 }
             }
-            int secondMax = findMax(arr);
+            int secondMax = findSecondMax(arr);
             return secondMax;
         }
     public static void main(String[] args) {

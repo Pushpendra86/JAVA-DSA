@@ -2,10 +2,10 @@ package Leetcode;
 
 import java.util.Arrays;
 
-public class ReturnArrays {
+public class SmallestAndLargest {
     static int[] smallestAndLargest(int[] arr){
         Arrays.sort(arr);
-        int[] ans = {arr[0], arr[arr.length-1]};
+        int[] ans = {arr[0], arr[arr.length-1]}; //new memory space is allocated
         return ans;
     }
     public static void main(String[] args) {

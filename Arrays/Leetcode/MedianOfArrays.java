@@ -27,7 +27,7 @@ public class MedianOfArrays {
     }
 
     public static void main (String args[]) {
-        int[] num1 = {1, 3};
+        int[] num1 = {1,5,3};
         int[] num2 = {2};
         // Call the function and print the result
         double result = findMedianSortedArrays(num1, num2);
